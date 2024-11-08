@@ -1,0 +1,3 @@
+Title,BL10:Det:Q1:TIFF1:FilePath,BL10:Det:Q1:TIFF1:FileName,BL10:Mot:rot4,Delay,BL10:Det:Q1:AcquireTime,BL10:Det:Q1:Acquire,Delay
+Sample E with QHY600,/SNSlocal/data/IPTS-33531/images/qhy600/ct_scans/November8_2024_PlantE/,Sample_E_with_QHY600_000_000,0.0,10,180,1,20
+Sample E with QHY600,/SNSlocal/data/IPTS-33531/images/qhy600/ct_scans/November8_2024_PlantE/,Sample_E_with_QHY600_180_000,180.0,10,180,1,20
